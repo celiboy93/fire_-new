@@ -9,7 +9,7 @@ const kv = await Deno.openKv();
 // =======================
 // CONFIGURATION
 // =======================
-const ACCESS_PASSWORD = "1234"; // Login Password ပြောင်းပါ
+const ACCESS_PASSWORD = "Soekyawwin@93"; // Login Password ပြောင်းပါ
 
 // =======================
 // 1. AUTH & UI
